@@ -4,6 +4,11 @@
     padding: 20px;
 }
 
+body{
+    background-color: grenn;
+    text-align: center;
+  }
+
 h1 {
     text-align: center;
 }
@@ -32,8 +37,3 @@ button {
     text-align: center;
     font-weight: bold;
 }
-
-  body{
-    background-color: green;
-    text-align: center;
-  } 
